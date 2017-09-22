@@ -22,7 +22,6 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
 
-
 public class NewsPractice{
 	
 	private WebDriver driver;
@@ -32,6 +31,7 @@ public class NewsPractice{
 	public void setUp() throws Exception{
 		driver = new ChromeDriver();
 		baseUrl = "http://www.chartlabpro.com";	
+		
 	}
 		
 	@Test
