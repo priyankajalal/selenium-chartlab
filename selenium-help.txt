@@ -1,0 +1,10 @@
+Locators:
+id -> name -> linktext---> partial Linktext--->Tag name--->class name -> css -> xpath
+
+
+
+Xapth vs cssSelector ---->
+ with XPath we can search elements backward or forward in the DOM hierarchy while CSS works 
+ only in a forward direction. 
+ This means that with XPath we can locate a parent element using a child element
+

@@ -1,4 +1,8 @@
+
+only when a new project i started
 git init
+
+------
 git status
 git add .
 git commit -m "test"

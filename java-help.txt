@@ -2,7 +2,7 @@
 # Package is for avoiding name collision , like java.lang.Math . org.chartlab.utils.Math
 
 
-# java is a strongly typed language 
+# java is a strongly typed language (it throws error if we try to write wrong syntax ) but Python is not (it accepts whatever we right). 
 
 # priyanka nayal
 
