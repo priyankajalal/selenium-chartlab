@@ -4,6 +4,6 @@ git init
 
 ------
 git status
-git add .
+git add -u 
 git commit -m "test"
 git push origin
