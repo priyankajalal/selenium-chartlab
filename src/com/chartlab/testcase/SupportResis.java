@@ -66,7 +66,7 @@ public class SupportResis{
 		Double resistance = Double.parseDouble(maxResistance);
 		Double maxResistancePrice = (price)*(1+0.05);
 		
-		if (support >minSupportPrice  && resistance < maxResistancePrice)
+		if (support > minSupportPrice  && resistance < maxResistancePrice)
 			{
 				System.out.println("Support Resistance not Correct");
 			}
@@ -74,5 +74,5 @@ public class SupportResis{
 			System.out.println("Support Resistance are Correct.");
 		}
 	
-    }-**
+    }
 }
